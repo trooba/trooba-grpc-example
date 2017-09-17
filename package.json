@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "grpc": "^1.0.1",
-    "trooba": "^0.2.0",
-    "trooba-grpc-transport": "^0.1.0"
+    "trooba": "^2.0.2",
+    "trooba-grpc-transport": "^1.0.2"
   }
 }
