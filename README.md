@@ -1,5 +1,7 @@
 # trooba-grpc-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/trooba/trooba-grpc-example.svg)](https://greenkeeper.io/)
+
 ### Install
 
 ```bash
